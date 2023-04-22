@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.zal {
+    padding-top: 40px;
+    background: url(./Img/GYM-Boy-4k-Wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.Vector {
+    width: 20px;
+    height: 20px;
+}
+
+.mon_father {
+    display: flex;
+}
+
+.mon {
+    margin-left: 15px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    color: #FFFFFF;
+    opacity: 0.75;
+}
+
+.list_iteam:hover {
+    color: red;
+    transition: .8s;
+    cursor: alias;
+}
+
+.list {
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    gap: 20px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 35px;
+    color: #FFFFFF;
+    opacity: 0.75;
+}
+
+.btn_1 {
+    padding: 5px 15px;
+    background: #A92A1D;
+    border: none;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #FFFFFF;
+}
+
+.text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 73px;
+
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.btn_2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    letter-spacing: -0.05em;
+    color: #FFFFFF;
+    background: #A92A1D;
+    border: none;
+    padding: 5px 20px;
+    margin-top: 20px;
+}
+
+.section{
+    padding-top: 240px;
+    padding-bottom: 50px;
+}
