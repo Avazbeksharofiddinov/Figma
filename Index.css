@@ -1,13 +1,15 @@
 * {
     margin: 0;
     padding: 0;
+    position: relative;
 }
 
+
 .zal {
-    padding-top: 40px;
     background: url(./Img/GYM-Boy-4k-Wallpaper.jpg);
     background-repeat: no-repeat;
     background-position: center;
+    
 }
 
 .Vector {
@@ -21,7 +23,7 @@
 
 .mon {
     margin-left: 15px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat Subrayada', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -41,7 +43,7 @@
     text-decoration: none;
     display: flex;
     gap: 20px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat Subrayada', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -54,8 +56,7 @@
     padding: 5px 15px;
     background: #A92A1D;
     border: none;
-
-    font-family: 'Montserrat';
+    font-family: 'Montserrat Subrayada', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -64,17 +65,16 @@
 }
 
 .text {
-    font-family: 'Montserrat';
+    font-family: 'Montserrat Subrayada', sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 60px;
     line-height: 73px;
-
     color: rgba(255, 255, 255, 0.75);
 }
 
 .btn_2 {
-    font-family: 'Montserrat';
+    font-family: 'Montserrat Subrayada', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -87,7 +87,51 @@
     margin-top: 20px;
 }
 
-.section{
+.section {
     padding-top: 240px;
     padding-bottom: 50px;
+}
+
+.section_2{
+    padding-top: 100px;
+    background-color: black;
+}
+
+.text_2 {
+    text-align: center;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 59px;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.text_3 {
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: -0.05em;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.vector_2{
+    padding-top: 10px;
+}
+
+.section_3{
+    padding-top: 100px;
+    background-color: black;
+}
+
+
+.image_2{
+    position: absolute;
+    bottom:  50px;
+}
+
+.rectangle{
+    width: 283px;
 }
