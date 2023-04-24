@@ -9,7 +9,7 @@
     background: url(./Img/GYM-Boy-4k-Wallpaper.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    
+
 }
 
 .Vector {
@@ -92,7 +92,7 @@
     padding-bottom: 50px;
 }
 
-.section_2{
+.section_2 {
     padding-top: 100px;
     background-color: black;
 }
@@ -117,21 +117,215 @@
     color: rgba(255, 255, 255, 0.75);
 }
 
-.vector_2{
-    padding-top: 10px;
+.vector_2 {
+    padding-top: 20px;
+
 }
 
-.section_3{
-    padding-top: 100px;
+.section_3 {
+    padding-top: 150px;
     background-color: black;
 }
 
 
-.image_2{
+.image_2 {
     position: absolute;
-    bottom:  50px;
+    bottom: 50px;
 }
 
-.rectangle{
+.rectangle {
     width: 283px;
+}
+
+.text_3_3 {
+    position: absolute;
+    margin-left: 100px;
+    font-family: 'Montserrat Subrayada', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.text_p_3 {
+    font-family: 'Montserrat Subrayada', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 156% */
+
+    letter-spacing: -0.05em;
+
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.section_4 {
+    padding-top: 100px;
+    background-color: black;
+}
+
+.text_4 {
+    font-family: 'Montserrat Subrayada', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.text_4_2 {
+    font-family: 'Montserrat Subrayada', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.text_4_3 {
+    font-family: 'Montserrat Subrayada', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: -0.05em;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.section_4_1 {
+    padding-top: 150px;
+    text-align: left;
+}
+
+.rectangle_4 {
+    width: 600px;
+}
+
+.section_5 {
+    background: black;
+    padding-top: 200px;
+}
+
+.image_5_1 {
+    position: absolute;
+    width: 300px;
+    right: 20px;
+    bottom: 20px;
+}
+
+.image_5_2 {
+    width: 350px;
+    top: 20px;
+
+}
+
+
+.image_5_3 {
+    width: 350px;
+    top: -50px;
+}
+
+.image_5_4 {
+    width: 350px;
+    top: 20px;
+    right: 0px;
+}
+
+.image_5_5 {
+    width: 300px;
+    top: 40px;
+}
+
+.welcom {
+    text-align: center;
+}
+
+.text_5_1 {
+    font-family: 'Montserrat Subrayada', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    letter-spacing: -0.05em;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.section_end {
+    position: absolute;
+    padding-top: -200px;
+    left: -12px;
+
+}
+
+.end_img {
+    width: 1349px;
+}
+
+.registration {
+    position: absolute;
+    text-align: center;
+    bottom: 450px;
+    left: 420px;
+}
+
+.endt-title-text {
+    font-family: 'Montserrat Subrayada', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: rgba(255, 255, 255, 0.75);
+}
+
+    .sub-title-text{
+    font-family:'Montserrat Subrayada', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: -0.05em;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.end-mail_1{
+    top: 20px;
+}
+
+.end-mail{
+    padding: 10px 100px;
+    text-align: center;
+    border: 1px solid #FFFFFF;
+    background-color: rgba(255, 255, 255, 0);
+}
+.placeholder{
+    color: #FFFFFF;
+}
+
+.end_submit_1{
+    padding-top: 40px;
+}
+
+.end_submit{
+    padding: 10px 100px;
+}
+
+
+.logo_footer{
+    padding-top: 770px;
+    text-align: center;
+}
+
+.footer_text{
+    color: #FFFFFF;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
 }
