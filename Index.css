@@ -9,7 +9,7 @@
     background: url(./Img/GYM-Boy-4k-Wallpaper.jpg);
     background-repeat: no-repeat;
     background-position: center;
-
+    padding-top: 40px;
 }
 
 .Vector {
@@ -32,11 +32,6 @@
     opacity: 0.75;
 }
 
-.list_iteam:hover {
-    color: red;
-    transition: .8s;
-    cursor: alias;
-}
 
 .list {
     list-style: none;
@@ -319,7 +314,7 @@
 
 
 .logo_footer{
-    padding-top: 770px;
+    padding-top: 100px;
     text-align: center;
 }
 
@@ -328,4 +323,11 @@
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 25px;
+}
+
+.nav_item-1{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 16px;
 }
